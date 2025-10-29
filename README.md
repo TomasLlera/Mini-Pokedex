@@ -91,10 +91,10 @@ Este proyecto consume la [PokeAPI](https://pokeapi.co/) para obtener informació
 ## Capturas de Pantalla
 
 ### Listado (/pokedex)
-![Listado de Pokémon](./screenshots/listado.png)
+![Listado de Pokémon](./Pokedex/Listado.png)
 
 ### Detalle (/pokedex/bulbasaur)
-![Detalle de Pokémon](./screenshots/detalle.png)
+![Detalle de Pokémon](./Pokedex/Detalles.png)
 
 ## Comandos Disponibles
 
